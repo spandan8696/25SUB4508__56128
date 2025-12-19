@@ -1,0 +1,1 @@
+Class Day 07 Training is on git
